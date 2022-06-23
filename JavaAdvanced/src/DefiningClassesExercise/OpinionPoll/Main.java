@@ -1,4 +1,4 @@
-package DefiningClassesExercise;
+package DefiningClassesExercise.OpinionPoll;
 
 import java.util.ArrayList;
 import java.util.Comparator;
